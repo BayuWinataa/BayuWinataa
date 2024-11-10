@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @BayuWinataa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello, World! I'm Bayu Winataa
 
-<!---
-BayuWinataa/BayuWinataa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 **Exploring the Digital World with Code**<br>
+🌱 **Currently mastering:** Web Development, UI/UX Design, and Data Structures<br>
+💡 **Interests:** Problem Solving, Creative Coding, and Innovative Tech Solutions
+
+---
+
+### 👀 About Me:
+- 🔥 **Passionate** about pushing the boundaries of what tech can do
+- 🌐 Constantly expanding my **knowledge** in new frameworks and languages
+- 👨‍💻 **Collaborating** on impactful projects that make a difference
+
+---
+
+### 📬 How to Connect:
+- 📧 Reach me at [myemail@example.com](-)
+- 🐦 Follow me on [Twitter](-)
+
+---
+
+### ⚡ Fun Fact:
+I can turn coffee into **clean code** ☕💻
+
+---
+
+### 🚀 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BayuWinataa&repo=CoolProject&theme=green)](https://github.com/BayuWinataa/CoolProject)
+
+![Bayu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BayuWinataa&show_icons=true&theme=green&include_all_commits=true&count_private=true)
+
+---
+
+**Follow along as I make every green commit count!** 😄🌱
