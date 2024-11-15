@@ -25,7 +25,7 @@ I can turn coffee into **clean code** ☕💻
 ---
 
 ### 🚀 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BayuWinataa&repo=CoolProject&theme=green)](https://github.com/BayuWinataa/CoolProject)
+
 
 ![Bayu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BayuWinataa&show_icons=true&theme=green&include_all_commits=true&count_private=true)
 
