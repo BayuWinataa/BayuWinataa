@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Bayu Winataa
 
 🌍 **Exploring the Digital World with Code**<br>
-🌱 **Currently mastering:** Web Development, UI/UX Design, and Data Structures<br>
+🌱 **Currently mastering:** Web Development<br>
 💡 **Interests:** Problem Solving, Creative Coding, and Innovative Tech Solutions
 
 ---
