@@ -20,7 +20,7 @@
 ---
 
 ### ⚡ Fun Fact:
-I can turn coffee into **clean code** ☕💻
+I can turn coffee into **clean code** ☕
 
 ---
 
