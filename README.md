@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Bayu Winataa
+# 👋 Hello, World! I'm Bayu Winata
 
 🌍 **Exploring the Digital World with Code**<br>
 🌱 **Currently mastering:** Web Development<br>
