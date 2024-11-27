@@ -14,7 +14,7 @@
 ---
 
 ### 📬 How to Connect:
-- 📧 Reach me at [myemail@example.com](-)
+- 📧 Reach me at [myemail@example.com](-).
 - 🐦 Follow me on [Twitter](-)
 
 ---
