@@ -1,5 +1,6 @@
 ![Header](./github-header-banner.png)
-<!-- 
+
+<!--
 <h2 align="left">Hi There👋!<br> My name is Bayu Winata<br>Front-end Web Developer</h2> -->
 
 ###
@@ -117,10 +118,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Bayu Winata">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Bayu%20Winata&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31a5eqez45phcomgciedrwf76kle&unique={true|1|on|yes})
