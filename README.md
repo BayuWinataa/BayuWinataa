@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 <!--
-<h2 align="left">Hi There👋!<br> My name is Bayu Winata<br>Front-end Web Developer</h2> -->
+<h2 align="left">Hi There👋!<br> My name is Bayu Winata<br>Front-end Web Developerr</h2> -->
 
 ###
 
