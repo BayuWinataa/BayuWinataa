@@ -120,4 +120,4 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31a5eqez45phcomgciedrwf76kle&unique={true|1|on|yes})
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31a5eqez45phcomgciedrwf76kle&unique={true|1|on|yes})](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31a5eqez45phcomgciedrwf76kle)
